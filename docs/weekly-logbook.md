@@ -9,7 +9,7 @@ How to create repository
 Problems or Difficulties
 GitHub was confusing at first
 Evidence of Work
-Repository Link: 
+Repository Link: https://github.com/Sainaw2/ICT105-team-RED.git
 
 Plan for Next Week
 Research project ideas.
