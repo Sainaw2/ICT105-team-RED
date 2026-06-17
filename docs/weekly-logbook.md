@@ -40,3 +40,24 @@ The team selected the Smart Assignment Reminder App as the semester project oppo
 Why It Was Selected
 
 The selected project achieved one of the highest NUF scores.
+
+Criteria
+
+Score
+
+New
+
+3/5
+
+Useful
+
+5/5
+
+Feasible
+
+5/5
+
+Total
+
+13/15
+
