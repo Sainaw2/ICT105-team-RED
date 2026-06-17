@@ -34,4 +34,9 @@ We created an opportunity scoring matrix and calculated the total score and rank
 
 Selected Opportunity
 
+
 The team selected the Smart Assignment Reminder App as the semester project opportunity.
+
+Why It Was Selected
+
+The selected project achieved one of the highest NUF scores.
