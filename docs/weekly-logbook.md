@@ -61,3 +61,38 @@ Total
 
 13/15
 
+The team selected this opportunity because:
+
+* The target users are clearly defined as university students.
+* The problem of missing assignment deadlines is specific and common.
+* Existing alternatives such as notebooks, alarms, and messaging groups have limitations.
+* The proposed solution is realistic and achievable within the semester timeline.
+* The project does not require IoT devices or advanced cybersecurity implementation.
+* User validation can be conducted easily during Lab 03.
+* A functional prototype can be developed between Lab 05 and Lab 10.
+
+Rejected Ideas
+
+One rejected idea was the Smart Campus Navigation App.
+
+Although the idea could help new students locate classrooms and facilities, it received a lower feasibility score because it requires map integration, location services, and accurate campus mapping data. These requirements increase development complexity and testing effort within the semester timeline.
+
+Another rejected idea was the QR Code Attendance System because it depends on cooperation from lecturers and may require additional access permissions and administrative support during testing.
+
+Plan for Lab 03
+
+For Lab 03, the team plans to validate the selected opportunity by conducting interviews and surveys with 15 to 20 university students.
+
+The team will collect evidence about:
+
+* How often students miss assignment deadlines
+* Which tools students currently use to manage tasks
+* Common pain points with existing solutions
+* Interest in using a dedicated assignment reminder application
+
+The key validation question is:
+
+Do university students experience enough difficulty managing assignment deadlines to regularly use a dedicated reminder application?
+
+The collected feedback will be used to refine the problem statement, prioritize features, and guide MVP development.
+
